@@ -1,0 +1,20 @@
+textarea {
+	width: 750px;
+	height: 600px;
+}
+
+#header {
+	color: #4d16ee;
+	font-size: 40px;
+	background-color: white;
+	text-align: center;
+}
+
+#body {
+	color: #4cdf3fea;
+	background-color: white;
+	float: right;
+	width: 600px;
+	border: 3px;
+	padding: 0;
+}
